@@ -1,4 +1,24 @@
 #SML
 #Own Datatype
 
-datatype languages = PYTHON | JAVA | C# | C++ | C | COBOL | GO;
+- datatype languages = PYTHON | JAVA | C# | C++ | C | COBOL | GO;
+- datatype candy = chocolate | caramel | taffy | gum | toffee;
+datatype candy = caramel | chocolate | gum | taffy | toffee
+- datatype fruits= orange | mango | banana | grapes | guava | apple | pineapple;
+datatype fruits = apple | banana | grapes | guava | mango | orange | pineapple
+- datatype vegetables = carrot | tomato | onion | cabbage | potato | spinach | jackfruit | corianderleaves | curryleaves | pumpkin | brinjal | cucumber | sweetpotato;
+datatype vegetables
+  = brinjal
+  | cabbage
+  | carrot
+  | corianderleaves
+  | cucumber
+  | curryleaves
+  | jackfruit
+  | onion
+  | potato
+  | pumpkin
+  | spinach
+  | sweetpotato
+  | tomato
+  
