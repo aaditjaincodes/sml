@@ -1,0 +1,4 @@
+#SML
+#Own Datatype
+
+datatype languages = PYTHON | JAVA | C# | C++ | C | COBOL | GO;
